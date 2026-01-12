@@ -44,3 +44,7 @@ ASCON is a lightweight cryptographic algorithm suitable for IoT devices and sele
 - Messages are decrypted and verified on reception
 
 ---
+<p align="center">
+  <img src="images/hardware_setup.jpg" width="600"/>
+</p>
+
