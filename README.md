@@ -45,6 +45,12 @@ ASCON is a lightweight cryptographic algorithm suitable for IoT devices and sele
 
 ---
 <p align="center">
+  <img src="image/esp_ascon.png" width="600"/>
+</p>
+<p align="center">
+  <img src="image/serveur.png" width="600"/>
+</p>
+<p align="center">
   <img src="image/hard1.png" width="600"/>
 </p>
 <p align="center">
